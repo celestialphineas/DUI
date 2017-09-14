@@ -12,9 +12,11 @@ Implement the hardware devices and upload the `arduino.ino` program to your Ardu
 
 ## Contributors
 
-Arduino project: Xinhang Xie, Zhibin Zhou
-ChucK programming: Yehang Yin
-Co-contributors: Qifan Zhao, Weiyue Gao, Zihan Cai
+**Arduino project:** Xinhang Xie, Zhibin Zhou
+
+**ChucK programming:** Yehang Yin
+
+**Co-contributors:** Qifan Zhao, Weiyue Gao, Zihan Cai
 
 ## Credits
 
